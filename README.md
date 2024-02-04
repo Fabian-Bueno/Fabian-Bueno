@@ -11,7 +11,7 @@
 <h3 align="left">My Skills:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,py,bootstrap,nodejs,mysql,spring" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,py,bootstrap,mysql" />
   </a>
 </p>
 <hr width="36%" >
@@ -19,7 +19,7 @@
 <h3 align="left">Others:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,sass,tailwind,azure,docker,figma,jquery,php,ruby" />
+    <img src="https://skillicons.dev/icons?i=git,java,spring,sass,tailwind,azure,docker,figma,jquery,nodejs,php,ruby" />
   </a>
 </p>
 <hr width="36%" >
